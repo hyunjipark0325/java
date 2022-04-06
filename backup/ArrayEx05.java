@@ -17,5 +17,4 @@ public class ArrayEx05 {
             System.out.println(data);
         }
     }
-    
 }
