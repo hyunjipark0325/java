@@ -26,5 +26,4 @@ public class ArrayListEx02 {
 		List subal = al.subList(1, 4);
 				System.out.println( subal.toString());
 	}
-
 }
